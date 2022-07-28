@@ -1,10 +1,9 @@
 # Basic project CRUD made in Flask with SQLALCHEMY and API REST
 ## Database MYSQL
+### Requirements:
 
-### Requirements
-flask
-flask_sqlalchemy
-mysql-connector-python
-mysqlclient
-
-Example. pip install flask
+# flask
+# flask_sqlalchemy
+# mysql-connector-python
+# mysqlclient
+# Example to install "pip install flask"
